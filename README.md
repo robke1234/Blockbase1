@@ -1,6 +1,6 @@
 # Blockbase
 
-Watch the demo here: [Youtube][https://youtu.be/ZdM-iNpv3nU]
+Watch the demo here: [Youtube](https://youtu.be/ZdM-iNpv3nU)
 
 **Version Control for Minecraft Builds – Git for Your Worlds**
 
